@@ -7,6 +7,7 @@ Background: You're tasked with designing a real-time news subscription service f
 Scenario Description: The system comprises two main components: NewsAgency and Subscriber.
 
 NewsAgency: Represents the central hub for publishing news. It maintains a list of subscribers and notifies them whenever new news is available.
+
 Subscriber: Represents users or entities subscribed to the news service. Subscribers receive immediate notifications about any breaking news published by the agency.
 
 Requirements:
